@@ -32,8 +32,7 @@ const Testimonial = () => {
           {/* Header */}
           <div className='space-y-4 pb-12'>
             <p className='text-3xl font-semibold text-center sm:text-4xl font-serif'>
-              Reviewed by People
-              <br /> Client's Testimonials
+              Clients Testimonials
             </p>
             <p className='text-center sm:px-44'>
               Discover the positive impact we've made on the our clients by
